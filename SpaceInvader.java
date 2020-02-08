@@ -24,7 +24,7 @@ public class SpaceInvader extends JFrame {
     }
 
     public static void main(String[] args) throws InterruptedException {
-        SpaceInvader n1 = new SpaceInvader();
+        new SpaceInvader();
     }
 
 }
